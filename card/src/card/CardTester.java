@@ -95,8 +95,8 @@ class YouthBirthday  extends  Birthday
   {
     super.greeting();
     System.out.println("How you have grown!!\n");
-    System.out.println("ass shit " + pillow);
-    System.out.println("ass shit " + til);
+    System.out.println("Ass shit " + pillow);
+    System.out.println("Ass shit " + til);
   }
 }
 
@@ -139,8 +139,8 @@ for ( int j=0; j <= 4; j++ )
      Card card = new Holiday( "Amy" );
     card.greeting(); 
     
-  YouthBirthday tr = new YouthBirthday("fill her", 54, "fuck");
+  YouthBirthday tr = new YouthBirthday("fill her", 54, "Wrapshit");
    tr.greeting();
-    tr.greeting("rat");
+    tr.greeting("Wrabbit");
   }
 }
